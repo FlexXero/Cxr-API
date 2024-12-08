@@ -2153,11 +2153,11 @@ getgenv().saveinstance = function(saving)
 end
 
 getgenv().identifyexecutor = function()
-    return "CXAPI REMASTED"
+    return "Paradise"
 end
 
 getgenv().getexecutorname = function()
-    return "CXAPI REMASTED"
+    return "Paradise"
 end
 
 getgenv().syn_mouse1press = mouse1press
